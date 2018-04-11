@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:example"
+             x:Class="example.MainPage">
+    <Frame OutlineColor="Azure">
+    <ScrollView>
+    <StackLayout Spacing="5">
+        <StackLayout.Children>
+	<Label Text="Welcome to Xamarin.Forms!" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+    <Button x:Name="cl" Clicked="Button_Click" TextColor="{local:ARGBColor Alpha=255, Red=0, Green=77, Blue=64}" 
+            BackgroundColor="{local:ARGBColor Alpha=255, Red=128, Green=203, Blue=196}"
+            Text="Click!">
+        
+    </Button>
+                <Label Text="Привет из Xamarin Forms"  HorizontalTextAlignment="Start" VerticalTextAlignment="End" FontFamily="Arial" FontSize="Large" FontAttributes="Italic" />
+                <Entry x:Name="n" Placeholder="Password" IsPassword="True" />
+                <Label Text="{x:Static local:MainPage.HEADER}"
+         FontSize="{x:Static local:MainPage.staticVar}"
+         VerticalOptions="Center" HorizontalOptions="Center" />
+        <ListView>
+            <ListView.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>iPhone 7</x:String>
+                    <x:String>Samsung Galaxy S7</x:String>
+                    <x:String>HP Elite x3</x:String>
+                </x:Array>
+            </ListView.ItemsSource>
+        </ListView>
+                <Editor Keyboard="Telephone"/>
+                    <Image Source="ct.png"/>
+                    <DatePicker MinimumDate="01.01.2000"/>
+                    <TimePicker></TimePicker>
+                    <Picker>
+                        <Picker.Items>
+                            <x:String>1</x:String>
+                            <x:String>2</x:String>
+                            <x:String>3</x:String>
+                        </Picker.Items>
+                    </Picker>
+                    <Stepper Increment="1" Minimum="0" Maximum="20"/>
+                    <Slider Minimum="0" Maximum="30"/>
+                    <Switch IsToggled="True" ></Switch>
+                    <TableView>
+                        <TableView.Root>
+                            <TableRoot>
+                                <TableSection Title="Персональные данные">
+                                    <EntryCell Label="Логин" Keyboard="Default" Placeholder="Введите логин" />
+                                    <SwitchCell Text="Сохранить" />
+                                </TableSection>
+                                <TableSection Title="Контакты">
+                                    <EntryCell Label="Телефон" Keyboard="Telephone" Placeholder="номер телефона" />
+                                    <EntryCell Label="Email" Keyboard="Email" Placeholder="Введите email" />
+                                </TableSection>
+                            </TableRoot>
+                        </TableView.Root>
+                    </TableView>
+                    
+                </StackLayout.Children>
+    </StackLayout>
+      </ScrollView>
+    </Frame>
+</ContentPage>

@@ -1,0 +1,6 @@
+D:\repos\example\example\obj\Debug\netstandard1.0\example.csprojResolveAssemblyReference.cache
+D:\repos\example\example\obj\Debug\netstandard1.0\example.csproj.CoreCompileInputs.cache
+D:\repos\example\example\obj\Debug\netstandard1.0\example.App.xaml.g.cs
+D:\repos\example\example\obj\Debug\netstandard1.0\example.MainPage.xaml.g.cs
+D:\repos\example\example\obj\Debug\netstandard1.0\example.AssemblyInfoInputs.cache
+D:\repos\example\example\obj\Debug\netstandard1.0\example.AssemblyInfo.cs

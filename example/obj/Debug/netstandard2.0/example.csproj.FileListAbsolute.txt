@@ -1,0 +1,12 @@
+D:\repos\example\example\bin\Debug\netstandard2.0\example.deps.json
+D:\repos\example\example\bin\Debug\netstandard2.0\example.dll
+D:\repos\example\example\bin\Debug\netstandard2.0\example.pdb
+D:\repos\example\example\obj\Debug\netstandard2.0\example.csproj.CoreCompileInputs.cache
+D:\repos\example\example\obj\Debug\netstandard2.0\example.App.xaml.g.cs
+D:\repos\example\example\obj\Debug\netstandard2.0\example.MainPage.xaml.g.cs
+D:\repos\example\example\obj\Debug\netstandard2.0\example.AssemblyInfoInputs.cache
+D:\repos\example\example\obj\Debug\netstandard2.0\example.AssemblyInfo.cs
+D:\repos\example\example\obj\Debug\netstandard2.0\example.dll
+D:\repos\example\example\obj\Debug\netstandard2.0\example.pdb
+D:\repos\example\example\obj\Debug\netstandard2.0\example.csprojResolveAssemblyReference.cache
+D:\repos\example\example\obj\Debug\netstandard2.0\example.browser.xaml.g.cs

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\example\example\bin\Debug\netstandard2.0\example.deps.json
+C:\Users\User\source\repos\example\example\bin\Debug\netstandard2.0\example.dll
+C:\Users\User\source\repos\example\example\bin\Debug\netstandard2.0\example.pdb
+C:\Users\User\source\repos\example\example\obj\Debug\netstandard2.0\example.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\example\example\obj\Debug\netstandard2.0\example.App.xaml.g.cs
+C:\Users\User\source\repos\example\example\obj\Debug\netstandard2.0\example.MainPage.xaml.g.cs
+C:\Users\User\source\repos\example\example\obj\Debug\netstandard2.0\example.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\example\example\obj\Debug\netstandard2.0\example.AssemblyInfo.cs
+C:\Users\User\source\repos\example\example\obj\Debug\netstandard2.0\example.dll
+C:\Users\User\source\repos\example\example\obj\Debug\netstandard2.0\example.pdb
+C:\Users\User\source\repos\example\example\obj\Debug\netstandard2.0\example.csprojResolveAssemblyReference.cache
